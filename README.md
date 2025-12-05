@@ -16,3 +16,6 @@ to use with LINE's Official API Chatbots, for those who finds using unicode emoj
 
 
 ..or paste it into the chat for funsies, whatever man.
+
+## References
+[Offical LINE's documentation][https://developers.line.biz/en/docs/messaging-api/emoji-list/#specify-emojis-in-message-object]
